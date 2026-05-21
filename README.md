@@ -1,4 +1,4 @@
-# Niharica
+# niharicapawar
 Aspiring Data Analyst | SQL • Python • Power BI
 👋 Hi, I'm Niharica 
 
