@@ -1,6 +1,7 @@
 # Niharica
-Aspiring Data Analyst | SQL • Python • Power BI
-👋 Hi, I'm Niharica 
+## Aspiring Data Analyst | SQL • Python • Power BI
+
+###👋 Hi, I'm Niharica 
 
 💼 Aspiring Data Analyst focused on transforming data into actionable insights.
 
